@@ -151,7 +151,7 @@ Português (nativo) · Inglês (B1)
 
 ### 🤝 Vamos conversar?
 
-Estou sempre disponível para trocar ideias sobre **Moodle, Totara, integrações e desenvolvimento web**.
+Estou sempre disponível para trocar ideias sobre **Desenvolvimento web, Moodle, Totara e integrações**.
 
 [![LinkedIn](https://img.shields.io/badge/-Conecta--te_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsio-miguel-3437801a3)
 
