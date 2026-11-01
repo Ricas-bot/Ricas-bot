@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsio-miguel-3437801a3)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kelsiomiguel2000@hotmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USERNAME&color=F98012&style=for-the-badge&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ricas-bot&color=F98012&style=for-the-badge&label=VISITAS)
 
 </div>
 
